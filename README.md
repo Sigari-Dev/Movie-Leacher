@@ -10,5 +10,5 @@
 
 <div align="center" style="font-size: 1.2em;">
   <b>⚠️ توجه</b><br>
-  برای استفاده از برنامه حتما باید از ربات تلگرامی <a href="https://t.me/getlicense_robot">getlicense_robot</a> لایسنس خودتون دریافت کنید.
+  برای استفاده از برنامه حتما باید از ربات تلگرامی <a href="https://t.me/getlicense_robot">getlicense_robot</a> لایسنس خودتون دریافت کنید..
 </div>
